@@ -1,0 +1,4 @@
+interface:
+  display_name: "项目面试深挖"
+  short_description: "基于真实项目材料共创可深挖、可复习的面试准备档案流程"
+  default_prompt: "使用 $project-interview-deep-dive 阅读我的项目材料，先给我可确认的面试问题清单和思考框架。"
